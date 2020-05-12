@@ -1,0 +1,17 @@
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\bin\Debug\fr_videoRental_SystemTests.dll
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\bin\Debug\fr_videoRental_SystemTests.pdb
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\bin\Debug\fr_videoRental_System.exe
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\bin\Debug\fr_videoRental_System.pdb
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\bin\Debug\fr_videoRental_System.exe.config
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\obj\Debug\fr_videoRental_SystemTests.csprojAssemblyReference.cache
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\obj\Debug\fr_videoRental_SystemTests.csproj.CoreCompileInputs.cache
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\obj\Debug\fr_videoRental_SystemTests.csproj.CopyComplete
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\obj\Debug\fr_videoRental_SystemTests.dll
+D:\aPRL-mAY\fr_videoRental_System\fr_videoRental_SystemTests\obj\Debug\fr_videoRental_SystemTests.pdb
